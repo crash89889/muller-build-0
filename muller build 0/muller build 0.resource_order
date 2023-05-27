@@ -102,6 +102,7 @@
     {"name":"SPR_BMN","order":16,"path":"sprites/SPR_BMN/SPR_BMN.yy",},
     {"name":"obj_goober","order":1,"path":"objects/obj_goober/obj_goober.yy",},
     {"name":"snd_king_goober","order":1,"path":"sounds/snd_king_goober/snd_king_goober.yy",},
+    {"name":"obj_jeff","order":25,"path":"objects/obj_jeff/obj_jeff.yy",},
     {"name":"spr_right","order":4,"path":"sprites/spr_right/spr_right.yy",},
     {"name":"spr_speakblock","order":6,"path":"sprites/spr_speakblock/spr_speakblock.yy",},
     {"name":"spr_textbox_arrow_s","order":14,"path":"sprites/spr_textbox_arrow_s/spr_textbox_arrow_s.yy",},

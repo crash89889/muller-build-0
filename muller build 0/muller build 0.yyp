@@ -152,6 +152,7 @@
     {"id":{"name":"SPR_BMN","path":"sprites/SPR_BMN/SPR_BMN.yy",},},
     {"id":{"name":"obj_goober","path":"objects/obj_goober/obj_goober.yy",},},
     {"id":{"name":"snd_king_goober","path":"sounds/snd_king_goober/snd_king_goober.yy",},},
+    {"id":{"name":"obj_jeff","path":"objects/obj_jeff/obj_jeff.yy",},},
     {"id":{"name":"dir_macros","path":"scripts/dir_macros/dir_macros.yy",},},
     {"id":{"name":"spr_right","path":"sprites/spr_right/spr_right.yy",},},
     {"id":{"name":"spr_speakblock","path":"sprites/spr_speakblock/spr_speakblock.yy",},},
