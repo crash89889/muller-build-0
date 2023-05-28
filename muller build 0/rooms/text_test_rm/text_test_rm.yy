@@ -32,7 +32,7 @@
   ],
   "parent": {
     "name": "dialogue system",
-    "path": "folders/dialogue system.yy",
+    "path": "folders/systems/dialogue system.yy",
   },
   "parentRoom": null,
   "physicsSettings": {

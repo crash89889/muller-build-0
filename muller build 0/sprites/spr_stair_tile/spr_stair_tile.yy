@@ -26,7 +26,7 @@
   "origin": 0,
   "parent": {
     "name": "sprites",
-    "path": "folders/furniture/sprites.yy",
+    "path": "folders/Objects/furniture/sprites.yy",
   },
   "preMultiplyAlpha": false,
   "sequence": {

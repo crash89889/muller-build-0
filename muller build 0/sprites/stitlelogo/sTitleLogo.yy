@@ -66,7 +66,7 @@
   "origin": 0,
   "parent": {
     "name": "menu",
-    "path": "folders/menu.yy",
+    "path": "folders/systems/menu.yy",
   },
   "preMultiplyAlpha": false,
   "sequence": {

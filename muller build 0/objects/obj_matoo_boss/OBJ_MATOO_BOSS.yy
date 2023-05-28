@@ -9,7 +9,7 @@
   "overriddenProperties": [],
   "parent": {
     "name": "DEMO MATERIALS",
-    "path": "folders/DEMO MATERIALS.yy",
+    "path": "folders/Objects/DEMO MATERIALS.yy",
   },
   "parentObjectId": {
     "name": "obj_wall",

@@ -121,7 +121,7 @@
   "origin": 0,
   "parent": {
     "name": "dialogue system",
-    "path": "folders/dialogue system.yy",
+    "path": "folders/systems/dialogue system.yy",
   },
   "preMultiplyAlpha": false,
   "sequence": {

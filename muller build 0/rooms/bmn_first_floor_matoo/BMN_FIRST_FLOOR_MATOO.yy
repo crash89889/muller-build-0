@@ -70,7 +70,7 @@
   ],
   "parent": {
     "name": "PHASE1MAPS_BMN",
-    "path": "folders/PHASE1MAPS_BMN.yy",
+    "path": "folders/Rooms/PHASE1MAPS_BMN.yy",
   },
   "parentRoom": null,
   "physicsSettings": {

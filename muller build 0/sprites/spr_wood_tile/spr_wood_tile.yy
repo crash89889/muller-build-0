@@ -26,7 +26,7 @@
   "origin": 0,
   "parent": {
     "name": "PHASE1MAPS_BMN",
-    "path": "folders/PHASE1MAPS_BMN.yy",
+    "path": "folders/Rooms/PHASE1MAPS_BMN.yy",
   },
   "preMultiplyAlpha": false,
   "sequence": {

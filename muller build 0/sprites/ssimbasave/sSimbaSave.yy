@@ -40,8 +40,8 @@
   "nineSlice": null,
   "origin": 0,
   "parent": {
-    "name": "muller build 0",
-    "path": "muller build 0.yyp",
+    "name": "Sprites",
+    "path": "folders/Sprites.yy",
   },
   "preMultiplyAlpha": false,
   "sequence": {

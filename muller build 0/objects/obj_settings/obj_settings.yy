@@ -10,7 +10,7 @@
   "overriddenProperties": [],
   "parent": {
     "name": "dialogue system",
-    "path": "folders/dialogue system.yy",
+    "path": "folders/systems/dialogue system.yy",
   },
   "parentObjectId": null,
   "persistent": true,

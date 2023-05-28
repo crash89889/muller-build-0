@@ -63,7 +63,7 @@
   "origin": 0,
   "parent": {
     "name": "sprites",
-    "path": "folders/DEMO MATERIALS/sprites.yy",
+    "path": "folders/Objects/DEMO MATERIALS/sprites.yy",
   },
   "preMultiplyAlpha": false,
   "sequence": {

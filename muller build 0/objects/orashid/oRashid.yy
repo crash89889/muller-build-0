@@ -7,7 +7,7 @@
   "overriddenProperties": [],
   "parent": {
     "name": "characters",
-    "path": "folders/characters.yy",
+    "path": "folders/Sprites/characters.yy",
   },
   "parentObjectId": {
     "name": "OBJ_NPC",

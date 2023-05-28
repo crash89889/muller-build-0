@@ -40,7 +40,7 @@
   "origin": 0,
   "parent": {
     "name": "cats",
-    "path": "folders/cats.yy",
+    "path": "folders/Sprites/cats.yy",
   },
   "preMultiplyAlpha": false,
   "sequence": {

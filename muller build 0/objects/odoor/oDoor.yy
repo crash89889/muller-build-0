@@ -11,7 +11,7 @@
   "overriddenProperties": [],
   "parent": {
     "name": "furniture",
-    "path": "folders/furniture.yy",
+    "path": "folders/Objects/furniture.yy",
   },
   "parentObjectId": null,
   "persistent": false,
