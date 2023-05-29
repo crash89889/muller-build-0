@@ -133,6 +133,7 @@
     {"id":{"name":"object_pauser","path":"objects/object_pauser/object_pauser.yy",},},
     {"id":{"name":"SPR_CAT_COLLECTED","path":"sprites/SPR_CAT_COLLECTED/SPR_CAT_COLLECTED.yy",},},
     {"id":{"name":"spr_marwan_backup","path":"sprites/spr_marwan_backup/spr_marwan_backup.yy",},},
+    {"id":{"name":"Object42","path":"objects/Object42/Object42.yy",},},
     {"id":{"name":"oEnhaus","path":"objects/oEnhaus/oEnhaus.yy",},},
     {"id":{"name":"SPR_MRPOPO","path":"sprites/SPR_MRPOPO/SPR_MRPOPO.yy",},},
     {"id":{"name":"scr_game_text","path":"scripts/scr_game_text/scr_game_text.yy",},},

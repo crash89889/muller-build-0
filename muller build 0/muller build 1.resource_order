@@ -99,6 +99,7 @@
     {"name":"object_pauser","order":7,"path":"objects/object_pauser/object_pauser.yy",},
     {"name":"SPR_CAT_COLLECTED","order":1,"path":"sprites/SPR_CAT_COLLECTED/SPR_CAT_COLLECTED.yy",},
     {"name":"spr_marwan_backup","order":3,"path":"sprites/spr_marwan_backup/spr_marwan_backup.yy",},
+    {"name":"Object42","order":15,"path":"objects/Object42/Object42.yy",},
     {"name":"oEnhaus","order":3,"path":"objects/oEnhaus/oEnhaus.yy",},
     {"name":"SPR_MRPOPO","order":6,"path":"sprites/SPR_MRPOPO/SPR_MRPOPO.yy",},
     {"name":"scr_game_text","order":8,"path":"scripts/scr_game_text/scr_game_text.yy",},
