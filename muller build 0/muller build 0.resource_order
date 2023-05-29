@@ -7,9 +7,9 @@
     {"name":"characters","order":36,"path":"folders/Sprites/characters.yy",},
     {"name":"systems","order":25,"path":"folders/systems.yy",},
     {"name":"dialogue system","order":1,"path":"folders/systems/dialogue system.yy",},
+    {"name":"lighting (pls work)","order":3,"path":"folders/systems/lighting (pls work).yy",},
     {"name":"menu","order":2,"path":"folders/systems/menu.yy",},
     {"name":"sprites","order":1,"path":"folders/Tile Sets/sprites.yy",},
-    {"name":"lighting (pls work)","order":3,"path":"folders/systems/lighting (pls work).yy",},
   ],
   "ResourceOrderSettings": [
     {"name":"sRashidBald","order":34,"path":"sprites/sRashidBald/sRashidBald.yy",},
