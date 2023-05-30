@@ -114,6 +114,7 @@
     {"name":"SPR_goober_port","order":22,"path":"sprites/SPR_goober_port/SPR_goober_port.yy",},
     {"name":"obj_cage_front","order":3,"path":"objects/obj_cage_front/obj_cage_front.yy",},
     {"name":"shader_light","order":1,"path":"shaders/shader_light/shader_light.yy",},
+    {"name":"obj_jefffinalboss","order":18,"path":"objects/obj_jefffinalboss/obj_jefffinalboss.yy",},
     {"name":"spr_goober","order":6,"path":"sprites/spr_goober/spr_goober.yy",},
     {"name":"OBJ_MATOO_BOSS","order":2,"path":"objects/OBJ_MATOO_BOSS/OBJ_MATOO_BOSS.yy",},
     {"name":"spr_title_screen_background","order":38,"path":"sprites/spr_title_screen_background/spr_title_screen_background.yy",},

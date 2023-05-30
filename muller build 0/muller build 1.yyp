@@ -149,6 +149,7 @@
     {"id":{"name":"SPR_goober_port","path":"sprites/SPR_goober_port/SPR_goober_port.yy",},},
     {"id":{"name":"obj_cage_front","path":"objects/obj_cage_front/obj_cage_front.yy",},},
     {"id":{"name":"shader_light","path":"shaders/shader_light/shader_light.yy",},},
+    {"id":{"name":"obj_jefffinalboss","path":"objects/obj_jefffinalboss/obj_jefffinalboss.yy",},},
     {"id":{"name":"spr_goober","path":"sprites/spr_goober/spr_goober.yy",},},
     {"id":{"name":"OBJ_MATOO_BOSS","path":"objects/OBJ_MATOO_BOSS/OBJ_MATOO_BOSS.yy",},},
     {"id":{"name":"spr_title_screen_background","path":"sprites/spr_title_screen_background/spr_title_screen_background.yy",},},
