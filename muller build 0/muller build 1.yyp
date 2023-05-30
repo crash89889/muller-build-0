@@ -57,6 +57,7 @@
     {"id":{"name":"DEMO_RM_1","path":"rooms/DEMO_RM_1/DEMO_RM_1.yy",},},
     {"id":{"name":"spr_chr_down_backup","path":"sprites/spr_chr_down_backup/spr_chr_down_backup.yy",},},
     {"id":{"name":"SPR_VICKI","path":"sprites/SPR_VICKI/SPR_VICKI.yy",},},
+    {"id":{"name":"Room18","path":"rooms/Room18/Room18.yy",},},
     {"id":{"name":"oPausechecker","path":"objects/oPausechecker/oPausechecker.yy",},},
     {"id":{"name":"spr_warpani_dupe103","path":"sprites/spr_warpani_dupe103/spr_warpani_dupe103.yy",},},
     {"id":{"name":"spr_choice_arrow","path":"sprites/spr_choice_arrow/spr_choice_arrow.yy",},},
@@ -269,6 +270,7 @@
     {"roomId":{"name":"Room16","path":"rooms/Room16/Room16.yy",},},
     {"roomId":{"name":"rm_light_test","path":"rooms/rm_light_test/rm_light_test.yy",},},
     {"roomId":{"name":"rm_enhouse","path":"rooms/rm_enhouse/rm_enhouse.yy",},},
+    {"roomId":{"name":"Room18","path":"rooms/Room18/Room18.yy",},},
   ],
   "TextureGroups": [
     {"resourceType":"GMTextureGroup","resourceVersion":"1.3","name":"Default","autocrop":false,"border":2,"compressFormat":"bz2","directory":"","groupParent":null,"isScaled":true,"loadType":"default","mipsToGenerate":0,"targets":-1,},

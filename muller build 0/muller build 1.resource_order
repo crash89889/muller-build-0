@@ -29,6 +29,7 @@
     {"name":"DEMO_RM_1","order":4,"path":"rooms/DEMO_RM_1/DEMO_RM_1.yy",},
     {"name":"spr_chr_down_backup","order":15,"path":"sprites/spr_chr_down_backup/spr_chr_down_backup.yy",},
     {"name":"SPR_VICKI","order":7,"path":"sprites/SPR_VICKI/SPR_VICKI.yy",},
+    {"name":"Room18","order":17,"path":"rooms/Room18/Room18.yy",},
     {"name":"oPausechecker","order":7,"path":"objects/oPausechecker/oPausechecker.yy",},
     {"name":"spr_warpani_dupe103","order":33,"path":"sprites/spr_warpani_dupe103/spr_warpani_dupe103.yy",},
     {"name":"spr_choice_arrow","order":21,"path":"sprites/spr_choice_arrow/spr_choice_arrow.yy",},
