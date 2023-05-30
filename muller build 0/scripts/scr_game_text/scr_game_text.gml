@@ -78,6 +78,11 @@ switch(_text_id) {
 	case "simba":
 		scr_text("saving rn..........done!")
 		break;
+		
+		
+		
+	case "fakedoor":
+		scr_text("the door is locked...")
 	}
 
 }
